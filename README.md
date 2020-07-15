@@ -1,2 +1,2 @@
 # proyectopodcast
- Proyecto pagina de podcast con html y css.
+ Landing page realizada con HTLM Y CSS (Sass). 
